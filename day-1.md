@@ -13,3 +13,4 @@
 
 git clone https://github.com/skills/communicate-using-markdown
 
+![Mona the Octocat](https://octodex.github.com/images/original.png)
