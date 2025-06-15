@@ -10,3 +10,10 @@
 1. Step 1
 1. Step 2
 1. Step 3
+
+```bash
+git clone https://github.com/skills/communicate-using-markdown
+```
+
+git clone https://github.com/skills/communicate-using-markdown
+
